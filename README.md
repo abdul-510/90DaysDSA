@@ -1,1 +1,2 @@
-# DSAin90Days
+# LeetCodePractice
+This repo contains my solutions submitted on leetcode.
